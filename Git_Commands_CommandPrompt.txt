@@ -37,3 +37,6 @@ Person B --> pull from Main to private branch, merge code to Main
 Scenario 3:
 1 Person --> Two different features
 Work on different branches
+
+-----------------------------------------------------------------------------------------------------------
+New change made by me
